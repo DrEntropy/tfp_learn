@@ -15,3 +15,6 @@ pip install tensorflow-probability
 ## Guides:
 
 https://www.tensorflow.org/probability/overview
+
+It's important to realize that TFP requires specific versions of tensorflow. 
+
