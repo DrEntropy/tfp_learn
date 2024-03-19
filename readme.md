@@ -9,6 +9,8 @@ conda install jupyter
 conda install seaborn # Installs all kinds of useful depends!
 pip install tensorflow 
 pip install tensorflow-probability
+pip install tensorflow-probability[tf]  # for keras integration
+pip install scikit-learn  # for train test split among other things
 ```
 
 
