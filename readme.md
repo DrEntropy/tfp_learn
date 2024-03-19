@@ -20,3 +20,4 @@ https://www.tensorflow.org/probability/overview
 
 It's important to realize that TFP requires specific versions of tensorflow. 
 
+## Note that with recent (2.16) versions of tensorflow and keras, there are breaking changes. So you hae to als install tensorflow-probability[tf] to get the keras integration, and then you have to use tf_keras instead of keras.  This is poorly documented.  This is so you can use keras 2.0 instead of the new keras 3.0
